@@ -5,8 +5,8 @@ import os
 from db import *
 import random
 
-API_KEY = "ZU4KjCJojHDcIc93vuFeobqyh35t0F1jP8KTDTbhkwo=TestCandidate"
-SECRET_KEY = "L1+iWOCHtxbLftTsAf1jyfKFm1bYwE86i3cT/t+IczE="
+API_KEY = ""
+SECRET_KEY = ""
 
 negative_answers = ["не", "неудобно", "ни"]
 positive_answers = ["да", "конечно", "удобно"]
